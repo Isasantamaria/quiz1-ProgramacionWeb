@@ -12,6 +12,11 @@
     margin-right: 14px;
 }
 
+#estiloImagen{
+    height: 50px;
+    width: 50px;
+}
+
 #container2{
     height: 300px;
     width: 100%;
@@ -36,7 +41,6 @@
     height: 500px;
     width: 100%;
     background-color: rgb(244, 206, 253);
-    
 }
 
 #container3{
@@ -53,8 +57,6 @@
     /* transform: rotate(90deg); inclinacion */
     /* justify-content: flex-start; */
     align-items: flex-start;
-    
-
 }
 
 .boxes{
@@ -70,8 +72,6 @@
     align-items: center;
     align-content: center;   */
     /* justify-content: flex-start; */
-   
-
 }
 
 
