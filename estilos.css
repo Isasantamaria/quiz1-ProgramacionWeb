@@ -8,22 +8,31 @@
     height: 300px;
     width: 100%;
     background-color: rgb(252, 193, 252);
-    
-    
 }
 
 #container3{
-    height: 500px;
-    width: 40%;
-    background-color: rgb(194, 212, 250);
+    height: 300px;
+    width: 100%;
+    background-color: rgb(248, 248, 248);
+    
 }
 
 .boxes{
-    height: 500px;
-    width: 50%;
-    background-color: rgb(248, 26, 26);
+    height: 99px;
+    width: 80%;
+    background-color: rgb(194, 212, 250);
     margin-bottom: 10px;
     margin-right: 10px;
+    display: flex;
+}
+
+
+.boxes1{
+    height: 600px;
+    width: 20%;
+    background-color: rgb(252, 195, 157);
+    /* margin-bottom: 10px;
+    margin-right: 10px; */
     /* border-radius: 20px; */
     /* flex-direction: column;
     flex-wrap: wrap;
@@ -31,6 +40,5 @@
     justify-content: space-between;
     align-items: right; */
     /* position: fixed; */
-    float: right;
-        
+    float: right;  
 }
