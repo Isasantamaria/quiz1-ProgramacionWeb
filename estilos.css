@@ -15,7 +15,7 @@
 #container2{
     height: 300px;
     width: 100%;
-    background-color: rgb(252, 193, 252);
+    background-color: rgb(255, 255, 255);
     /* justify-content: center;
     align-items: right; 
     float: right;  */
@@ -24,28 +24,23 @@
     justify-content: flex-end;      
 }
 
-
 .boxes1{
+    height: 290px;
+    width: 400%;
+    background-color: rgb(248, 226, 212);
+    margin-bottom: 10px; /* para el espacion entre las lineas */
+    margin-right: 14px;
+}
+
+.boxes2{
     height: 500px;
-    width: 20%;
-    background-color: rgb(252, 195, 157);
-    /* margin-bottom: 10px; */
-    /* margin-right: 10px;  */
-    /* border-radius: 20px; */
-    /* flex-direction: row; 
-    flex-wrap: wrap; 
-    justify-content: right; 
-    justify-content: space-between; 
-    align-items: right;   */
-    /* position: fixed;  */
-    /* float: right; */
+    width: 100%;
+    background-color: rgb(244, 206, 253);
     
 }
 
-
-
 #container3{
-    height: 210px;
+    height: 300px;
     width: 81%;
     background-color: rgb(255, 255, 255);
     display: flex;  
@@ -64,10 +59,10 @@
 
 .boxes{
     height: 200px;
-    width: 100%;
+    width: 80%;
     background-color: rgb(194, 212, 250);
     margin-bottom: 10px; /* para el espacion entre las lineas */
-    margin-right: 14px;
+    margin-right: 24px;
     /* flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
