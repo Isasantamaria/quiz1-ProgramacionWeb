@@ -1,11 +1,17 @@
 #container{
-    height: 200px;
+    height: 300px;
     width: 100%;
     background-color: rgb(250, 189, 230);
 }
 
 #container2{
-    height: 200px;
+    height: 300px;
     width: 100%;
     background-color: rgb(252, 193, 252);
+}
+
+#container3{
+    height: 500px;
+    width: 40%;
+    background-color: rgb(194, 212, 250);
 }
